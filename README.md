@@ -11,7 +11,6 @@ Iniciando estudos dev após mais de 20 anos de ausência na tecnologia...
 
 
 ### Languages Used
-[![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvimpl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvimpl)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact
