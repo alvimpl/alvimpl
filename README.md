@@ -2,7 +2,7 @@
 
 
 ### About
-Iniciando estudos dev após mais de 20 anos de ausência na tecnologia...
+Studying "Systems Analysis and Development" at PUC-MG.
 
 
 ### Details
