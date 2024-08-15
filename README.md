@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando no projeto [Atestados](https://github.com/alvimpl/atestados)
 
-- 📫 Meu contato **orfuspc@gmai.com**
+- 📫 Meu contato **orfuspc@gmail.com**
 
 <h3 align="left">Você me acha por aqui:</h3>
 <p align="left">
